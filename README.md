@@ -18,4 +18,5 @@ nhasfgsudgysytdsuiisdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 # TABEL SALDO REKENING
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/88b55bbe-ab69-46aa-94bd-1b247c6764df)
 
+![image](https://github.com/Mezi24/BASDA/assets/131523143/ee0e23bf-e17b-4248-9fee-27e44c3d708f)
 
