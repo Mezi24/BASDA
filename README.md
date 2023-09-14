@@ -11,3 +11,5 @@ nhasfgsudgysytdsuiisdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 # TABEL TELLER
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/f2c85dbe-6c8a-48d2-8f50-2486942e5edc)
 
+![image](https://github.com/Mezi24/BASDA/assets/131523143/72e98fab-f2d4-4dfb-a30b-ec6d38cc0b0f)
+
