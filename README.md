@@ -22,3 +22,5 @@ nhasfgsudgysytdsuiisdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 # TABEL DEREKTUR
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/e44c7f05-70c1-44c4-8676-5b3ae41c640a)
+
+![image](https://github.com/Mezi24/BASDA/assets/131523143/4b108d53-6482-431f-b30e-dfe753c40ee4)
