@@ -13,6 +13,7 @@ nhasfgsudgysytdsuiisdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 # TABEL TELLER
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/e0436681-b1df-4d56-b302-e9f6cd9fb66b)
 
+![image](https://github.com/Mezi24/BASDA/assets/131523143/75c6da4b-fb4e-4618-b00e-2ffb07db5376)
 
 
 
