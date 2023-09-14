@@ -8,7 +8,6 @@ nhasfgsudgysytdsuiisdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 # TABEL COSTOMER SERVICE
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/9cfe70fd-615e-4994-af62-a56061120564)
 
-https://github.com/Mezi24/BASDA/issues/1#issuecomment-1719804963
 
 
 
