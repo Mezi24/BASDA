@@ -20,3 +20,5 @@ nhasfgsudgysytdsuiisdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/ee0e23bf-e17b-4248-9fee-27e44c3d708f)
 
+# TABEL DEREKTU
+![image](https://github.com/Mezi24/BASDA/assets/131523143/e44c7f05-70c1-44c4-8676-5b3ae41c640a)
