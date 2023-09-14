@@ -11,5 +11,4 @@ nhasfgsudgysytdsuiisdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 
 
-![image](https://github.com/Mezi24/BASDA/assets/131523143/72e98fab-f2d4-4dfb-a30b-ec6d38cc0b0f)
 
