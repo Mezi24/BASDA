@@ -2,7 +2,7 @@
 
 [ini link](nasabah_bank.sql)
 # TABEL NASABAH BANK
-![image](https://github.com/Mezi24/BASDA/assets/131523143/3fcac939-3e45-4c50-bbf1-1afefd83f38b)
+![image](https://github.com/Mezi24/BASDA/assets/131523143/d43f2a3c-25e2-4a27-ac53-fac171753b82)
 Pada tabel diatas dapat dilihat bahwa tabel tersebut berisi tentang informasi mengenai nasabah bank. Setiap isi
 kolam memiliki tugasnya masing-masing seperti pada kolom pertama: nomor telepon ini berfungsi untuk menyimpan nomor
 nasabah, id nasabah berungsi untuk menyimpan identitas unik dari nasabah, nama berfungsi untuk menyimpan informasi dari nasabah,
