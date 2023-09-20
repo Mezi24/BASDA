@@ -36,6 +36,9 @@ nomor telepon kolom ini berfungsi untuk menyimpan nomor dari teller, email berfu
 untuk melihat kode teller pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel teller dapat dilihat pada tautan ini  [kode teller](teller.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/7fc6e49f-a9e0-4826-abf8-2e28570f28bb)
 
+berikut adalah contoh data-data yang telah dimasukan kedalam tabel:
+![image](https://github.com/Mezi24/BASDA/assets/131523143/a896478c-c790-429a-9117-bb5a08963e0a)
+
 # TABEL SALDO_REKENING
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/2c18be58-d0e0-441e-8925-b63c66ba949d)
 
