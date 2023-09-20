@@ -1,6 +1,4 @@
-# BASDA
-
-[ini link semuanya](nasabah_bank.sql)
+# BASDA PERTEMUAN 3
 # TABEL NASABAH 
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/07eb5f5d-c328-4775-a4cf-067b6ca9c6fc)
 
@@ -47,3 +45,5 @@ Pada tabel direktur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel 
 
 untuk melihat kode direktur pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel direktur dapat dilihat pada tautan ini  [kode direktur](direktur.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
+
+untuk melihat kode semua tabel yang telah digabungkan dapat melihatnya disini [ini link semuanya](nasabah_bank.sql)
