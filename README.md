@@ -13,7 +13,7 @@ untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan k
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/d43f2a3c-25e2-4a27-ac53-fac171753b82)
 
 # TABEL CUSTOMER_SERVICE
-
+![image](https://github.com/Mezi24/BASDA/assets/131523143/05c64279-ce82-48ed-8c74-98761ab40311)
 Pada tabel ini memilki fungsi untuk membuat sebuah tabel sql yang berisi mengenai costamer service pada sebuah bank. 
 costamer service memiliki beberapa atribut seperti id cs yang berfungsi untuk menyimpan data id yang dimiliki oleh cs, pada kolom nama cs ini berfungsi untuk menyimpan nama cs, cs juga memiliki kolom nomor telepon untuk menyimpan nomor teleponnya, email untuk kolom ini berfungsi untuk menyimpan email cs, status kerja yang dimiliki cs befungsi untuk mengetahui apakah cs tersebut masih aktif atau tidak, jenis kelamin kolom ini berfungsi untuk menyimpan jenis kelamin untuk mengetahui identitas seorang cs apakah laki-laki atau perempuan.
 
