@@ -28,6 +28,6 @@ Pada tabel ini dapat dilihat bahwa ada beberapa atribut dari etintas saldo reken
 nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimiliki nasabah, jenis rekening berfungsi untuk menyimpan semua jenis rekening yang dimiliki oleh nasabah, nama nasabah ini berfungsi untuk menyimpan semua nama nasabah yang terdaftar di bank tersebut, saldo berfungsi untuk menyimpan dan mengetahui berapa banyak saldo yang dimilki oleh nasabah, tanggal dibukanya buku tabungan nasabah ini berguna untuk menyimpan tanggal berapakah buku tabungan nasabah dibuat.
 
 # TABEL DEREKTUR
-![image](https://github.com/Mezi24/BASDA/assets/131523143/e44c7f05-70c1-44c4-8676-5b3ae41c640a)
+![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
 Pada tabel derektur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel derektur. pada id derektur ini berfungsi untuk menyimpan identitas unik derektur, nama derktur koolom ini berfungsi untuk menyimpan nama derektur yang ada, jenis kelamin berfungsi untuk menyimpan semua jenis kelamin, nomor telepon berfungsi untuk menyimpan nomor dari derektur, email berfusng untuk menyimpan alamat email yang dimiliki dari derektur.
-![image](https://github.com/Mezi24/BASDA/assets/131523143/4b108d53-6482-431f-b30e-dfe753c40ee4)
+
