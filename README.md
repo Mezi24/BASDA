@@ -20,7 +20,7 @@ costamer service memiliki beberapa atribut seperti id cs yang berfungsi untuk me
 Pada tabel ini saya akan menjelaskan sebuah tabel teller yang memiliki beberapa atribut dengan fungsinya masing-masing. 
 id teller ialah kolom yang berfungsi untuk menyimpan identitas unik dari teller, nama teller kolom ini berfungsi untuk menyimpan identitas nama teller, 
 nomor telepon kolom ini berfungsi untuk menyimpan nomor dari teller, email berfungsi untuk menyimpan alamat dari seorang teller, jenis kelamin befungsi untuk menyimpan data identitas seorang teller.
-
+[link kode teller](teller.sql)
 
 # TABEL SALDO REKENING
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/135f15e6-fcb5-4a57-a57f-8752afbca5c6)
