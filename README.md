@@ -25,7 +25,7 @@ nomor telepon kolom ini berfungsi untuk menyimpan nomor dari teller, email berfu
 # TABEL SALDO REKENING
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/135f15e6-fcb5-4a57-a57f-8752afbca5c6)
 Pada tabel ini dapat dilihat bahwa ada beberapa atribut dari etintas saldo rekening yang memiliki fungsi sebagai berikut.
-nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimiliki nasabah, jenis rekening berfungsi untuk menyimpan semua jenis rekening yang dimiliki oleh nasabah, nama nasabah ini berfungsi untuk menyimpan semua nama nasabah yang terdaftar di bank tersebut, saldo berfungsi untuk menyimpan dan mengetahui berapa banyak saldo yang dimilki oleh nasabah, tanggal dibukanya buku tabungan nasabah ini berguna untuk menyimpan tanggal berapakah buku tabungan nasabah dibuat.
+nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimiliki nasabah, jenis rekening berfungsi untuk menyimpan semua jenis rekening yang dimiliki oleh nasabah, nama nasabah ini berfungsi untuk menyimpan semua nama nasabah yang terdaftar di bank tersebut, saldo berfungsi untuk menyimpan dan mengetahui berapa banyak saldo yang dimilki oleh nasabah, tanggal dibukanya buku tabungan nasabah ini berguna untuk menyimpan tanggal berapakah buku tabungan nasabah dibuat.[link kode saldo_rekening](saldo_rekening.sql)
 
 # TABEL DEREKTUR
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
