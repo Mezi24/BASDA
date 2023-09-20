@@ -13,7 +13,7 @@ email ini berfungsi untuk menyimpan email yang dimiliki oleh nasabah, alamat yan
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/fc7d1534-cdb7-43c1-b508-cc89d6ec6a91)
 Pada tabel ini memilki fungsi untuk membuat sebuah tabel sql yang berisi mengenai costamer service pada sebuah bank. 
 costamer service memiliki beberapa atribut seperti id cs yang berfungsi untuk menyimpan data id yang dimiliki oleh cs, pada kolom nama cs ini berfungsi untuk menyimpan nama cs, cs juga memiliki kolom nomor telepon untuk menyimpan nomor teleponnya, email untuk kolom ini berfungsi untuk menyimpan email cs, status kerja yang dimiliki cs befungsi untuk mengetahui apakah cs tersebut masih aktif atau tidak, jenis kelamin kolom ini berfungsi untuk menyimpan jenis kelamin untuk mengetahui identitas seorang cs apakah laki-laki atau perempuan.
-![image](https://github.com/Mezi24/BASDA/assets/131523143/6f5fbf84-c99a-4c1c-858d-ac55be674e5d)
+
 
 # TABEL TELLER
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/e0436681-b1df-4d56-b302-e9f6cd9fb66b)
