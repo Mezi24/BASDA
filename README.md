@@ -59,4 +59,7 @@ Pada tabel direktur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel 
 untuk melihat kode direktur pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel direktur dapat dilihat pada tautan ini  [kode direktur](direktur.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
 
+berikut adalah contoh data-data yang telah dimasukan kedalam tabel:
+![image](https://github.com/Mezi24/BASDA/assets/131523143/8ce16487-8d68-4ff7-89f3-0efd1180803c)
+
 untuk melihat kode semua tabel yang telah digabungkan dapat melihatnya disini [ini link semuanya](nasabah_bank.sql)
