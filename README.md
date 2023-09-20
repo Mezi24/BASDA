@@ -7,13 +7,13 @@ Pada tabel diatas dapat dilihat bahwa tabel tersebut berisi tentang informasi me
 kolam memiliki tugasnya masing-masing seperti pada kolom pertama: nomor telepon ini berfungsi untuk menyimpan nomor
 nasabah, id nasabah berungsi untuk menyimpan identitas unik dari nasabah, nama berfungsi untuk menyimpan informasi dari nasabah,
 email ini berfungsi untuk menyimpan email yang dimiliki oleh nasabah, alamat yang dimiliki oleh nasabah nantinya kan disimpan disini.
-[link kode nasabah](nasabah.aql)
+[link kode nasabah](nasabah.sql)
 
 # TABEL COSTOMER SERVICE
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/fc7d1534-cdb7-43c1-b508-cc89d6ec6a91)
 Pada tabel ini memilki fungsi untuk membuat sebuah tabel sql yang berisi mengenai costamer service pada sebuah bank. 
 costamer service memiliki beberapa atribut seperti id cs yang berfungsi untuk menyimpan data id yang dimiliki oleh cs, pada kolom nama cs ini berfungsi untuk menyimpan nama cs, cs juga memiliki kolom nomor telepon untuk menyimpan nomor teleponnya, email untuk kolom ini berfungsi untuk menyimpan email cs, status kerja yang dimiliki cs befungsi untuk mengetahui apakah cs tersebut masih aktif atau tidak, jenis kelamin kolom ini berfungsi untuk menyimpan jenis kelamin untuk mengetahui identitas seorang cs apakah laki-laki atau perempuan.
-[link kode costomer_service](costomer_service)
+[link kode costomer_service](costomer_service.sql)
 
 # TABEL TELLER
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/7fc6e49f-a9e0-4826-abf8-2e28570f28bb)
