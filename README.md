@@ -30,10 +30,12 @@ untuk melihat kode teller pada database yang kita buat kita dapat menambahkan ko
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/7fc6e49f-a9e0-4826-abf8-2e28570f28bb)
 
 # TABEL SALDO_REKENING
-![image](https://github.com/Mezi24/BASDA/assets/131523143/135f15e6-fcb5-4a57-a57f-8752afbca5c6)
+![image](https://github.com/Mezi24/BASDA/assets/131523143/2c18be58-d0e0-441e-8925-b63c66ba949d)
 Pada tabel ini dapat dilihat bahwa ada beberapa atribut dari etintas saldo rekening yang memiliki fungsi sebagai berikut.
-nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimiliki nasabah, jenis rekening berfungsi untuk menyimpan semua jenis rekening yang dimiliki oleh nasabah, nama nasabah ini berfungsi untuk menyimpan semua nama nasabah yang terdaftar di bank tersebut, saldo berfungsi untuk menyimpan dan mengetahui berapa banyak saldo yang dimilki oleh nasabah, tanggal dibukanya buku tabungan nasabah ini berguna untuk menyimpan tanggal berapakah buku tabungan nasabah dibuat.[kode saldo_rekening](saldo_rekening.sql)
+nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimiliki nasabah, jenis rekening berfungsi untuk menyimpan semua jenis rekening yang dimiliki oleh nasabah, nama nasabah ini berfungsi untuk menyimpan semua nama nasabah yang terdaftar di bank tersebut, saldo berfungsi untuk menyimpan dan mengetahui berapa banyak saldo yang dimilki oleh nasabah, tanggal dibukanya buku tabungan nasabah ini berguna untuk menyimpan tanggal berapakah buku tabungan nasabah dibuat.
 
+untuk melihat kode saldo_rekekning pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel saldo_rekening dapat dilihat pada tautan ini  [kode saldo_rekening](saldo_rekening.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+![image](https://github.com/Mezi24/BASDA/assets/131523143/135f15e6-fcb5-4a57-a57f-8752afbca5c6)
 # TABEL DiREKTUR
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
 Pada tabel direktur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel direktur. pada id direktur ini berfungsi untuk menyimpan identitas unik direktur, nama dirktur koolom ini berfungsi untuk menyimpan nama direktur yang ada, jenis kelamin berfungsi untuk menyimpan semua jenis kelamin, nomor telepon berfungsi untuk menyimpan nomor dari direktur, email berfusng untuk menyimpan alamat email yang dimiliki dari direktur.[kode direktur](direktur.sql)
