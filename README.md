@@ -8,8 +8,8 @@ kolam memiliki tugasnya masing-masing seperti pada kolom pertama: nomor telepon 
 nasabah, id nasabah berungsi untuk menyimpan identitas unik dari nasabah, nama berfungsi untuk menyimpan informasi dari nasabah,
 email ini berfungsi untuk menyimpan email yang dimiliki oleh nasabah, alamat yang dimiliki oleh nasabah nantinya kan disimpan disini.
 
-untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Table Nasabah dapat dilihat pada tautan dibawah. setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
-[link kode nasabah](nasabah.sql)
+untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Table Nasabah dapat dilihat pada tautan ini [link kode nasabah](nasabah.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/d43f2a3c-25e2-4a27-ac53-fac171753b82)
 
 # TABEL CUSTOMER SERVICE
