@@ -11,6 +11,8 @@ untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan k
 
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/d43f2a3c-25e2-4a27-ac53-fac171753b82)
 
+berikut adalah contoh data-data yang telah dimasukan kedalam tabel:
+
 # TABEL CUSTOMER_SERVICE
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/05c64279-ce82-48ed-8c74-98761ab40311)
 
