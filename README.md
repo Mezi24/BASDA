@@ -37,6 +37,8 @@ nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimi
 untuk melihat kode saldo_rekekning pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel saldo_rekening dapat dilihat pada tautan ini  [kode saldo_rekening](saldo_rekening.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/135f15e6-fcb5-4a57-a57f-8752afbca5c6)
 # TABEL DiREKTUR
-![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
-Pada tabel direktur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel direktur. pada id direktur ini berfungsi untuk menyimpan identitas unik direktur, nama dirktur koolom ini berfungsi untuk menyimpan nama direktur yang ada, jenis kelamin berfungsi untuk menyimpan semua jenis kelamin, nomor telepon berfungsi untuk menyimpan nomor dari direktur, email berfusng untuk menyimpan alamat email yang dimiliki dari direktur.[kode direktur](direktur.sql)
+![image](https://github.com/Mezi24/BASDA/assets/131523143/cda38a7d-617d-468c-a6a2-589ccd95d0bb)
+Pada tabel direktur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel direktur. pada id direktur ini berfungsi untuk menyimpan identitas unik direktur, nama dirktur koolom ini berfungsi untuk menyimpan nama direktur yang ada, jenis kelamin berfungsi untuk menyimpan semua jenis kelamin, nomor telepon berfungsi untuk menyimpan nomor dari direktur, email berfusng untuk menyimpan alamat email yang dimiliki dari direktur.
 
+untuk melihat kode direktur pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel direktur dapat dilihat pada tautan ini  [kode direktur](direktur.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
