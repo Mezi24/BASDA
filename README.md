@@ -2,12 +2,15 @@
 
 [ini link semuanya](nasabah_bank.sql)
 # TABEL NASABAH BANK
-![image](https://github.com/Mezi24/BASDA/assets/131523143/d43f2a3c-25e2-4a27-ac53-fac171753b82)
+![image](https://github.com/Mezi24/BASDA/assets/131523143/07eb5f5d-c328-4775-a4cf-067b6ca9c6fc)
 Pada tabel diatas dapat dilihat bahwa tabel tersebut berisi tentang informasi mengenai nasabah bank. Setiap isi
 kolam memiliki tugasnya masing-masing seperti pada kolom pertama: nomor telepon ini berfungsi untuk menyimpan nomor
 nasabah, id nasabah berungsi untuk menyimpan identitas unik dari nasabah, nama berfungsi untuk menyimpan informasi dari nasabah,
 email ini berfungsi untuk menyimpan email yang dimiliki oleh nasabah, alamat yang dimiliki oleh nasabah nantinya kan disimpan disini.
+
+untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Table Nasabah dapat dilihat pada tautan dibawah. setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 [link kode nasabah](nasabah.sql)
+![image](https://github.com/Mezi24/BASDA/assets/131523143/d43f2a3c-25e2-4a27-ac53-fac171753b82)
 
 # TABEL CUSTOMER SERVICE
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/fc7d1534-cdb7-43c1-b508-cc89d6ec6a91)
