@@ -8,7 +8,6 @@ kolam memiliki tugasnya masing-masing seperti pada kolom pertama: nomor telepon 
 nasabah, id nasabah berungsi untuk menyimpan identitas unik dari nasabah, nama berfungsi untuk menyimpan informasi dari nasabah,
 email ini berfungsi untuk menyimpan email yang dimiliki oleh nasabah, alamat yang dimiliki oleh nasabah nantinya kan disimpan disini.
 
-![image](https://github.com/Mezi24/BASDA/assets/131523143/2f5bd5ec-6901-45da-add1-aa575869160d)
 
 # TABEL COSTOMER SERVICE
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/9cfe70fd-615e-4994-af62-a56061120564)
