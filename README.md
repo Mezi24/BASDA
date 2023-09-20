@@ -47,6 +47,10 @@ nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimi
 
 untuk melihat kode saldo_rekekning pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel saldo_rekening dapat dilihat pada tautan ini  [kode saldo_rekening](saldo_rekening.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/135f15e6-fcb5-4a57-a57f-8752afbca5c6)
+
+berikut adalah contoh data-data yang telah dimasukan kedalam tabel:
+![image](https://github.com/Mezi24/BASDA/assets/131523143/5ee781e7-7e25-4cfe-9f9e-84434fbb1e0f)
+
 # TABEL DiREKTUR
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/cda38a7d-617d-468c-a6a2-589ccd95d0bb)
 
