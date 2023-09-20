@@ -1,7 +1,7 @@
 # BASDA
 
 [ini link semuanya](nasabah_bank.sql)
-# TABEL NASABAH BANK
+# TABEL NASABAH 
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/07eb5f5d-c328-4775-a4cf-067b6ca9c6fc)
 Pada tabel diatas dapat dilihat bahwa tabel tersebut berisi tentang informasi mengenai nasabah bank. Setiap isi
 kolam memiliki tugasnya masing-masing seperti pada kolom pertama: nomor telepon ini berfungsi untuk menyimpan nomor
