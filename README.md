@@ -23,6 +23,9 @@ costamer service memiliki beberapa atribut seperti id cs yang berfungsi untuk me
 untuk melihat kode cutomer_service pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel customer_service dapat dilihat pada tautan ini [kode customer_service](customer_service.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/fc7d1534-cdb7-43c1-b508-cc89d6ec6a91)
 
+berikut adalah contoh data-data yang telah dimasukan kedalam tabel:
+![image](https://github.com/Mezi24/BASDA/assets/131523143/3b65f0c1-493a-46bb-89cf-eaf3eb6814ba)
+
 # TABEL TELLER
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/98879ff0-3bd7-4917-8222-bb7ed895fe0e)
 
