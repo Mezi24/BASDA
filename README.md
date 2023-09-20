@@ -8,7 +8,7 @@ kolam memiliki tugasnya masing-masing seperti pada kolom pertama: nomor telepon 
 nasabah, id nasabah berungsi untuk menyimpan identitas unik dari nasabah, nama berfungsi untuk menyimpan informasi dari nasabah,
 email ini berfungsi untuk menyimpan email yang dimiliki oleh nasabah, alamat yang dimiliki oleh nasabah nantinya kan disimpan disini.
 
-untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Table Nasabah dapat dilihat pada tautan ini [kode nasabah](nasabah.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel Nasabah dapat dilihat pada tautan ini [kode nasabah](nasabah.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/d43f2a3c-25e2-4a27-ac53-fac171753b82)
 
@@ -17,15 +17,17 @@ untuk melihat kode nasabah pada database yang kita buat kita dapat menambahkan k
 Pada tabel ini memilki fungsi untuk membuat sebuah tabel sql yang berisi mengenai costamer service pada sebuah bank. 
 costamer service memiliki beberapa atribut seperti id cs yang berfungsi untuk menyimpan data id yang dimiliki oleh cs, pada kolom nama cs ini berfungsi untuk menyimpan nama cs, cs juga memiliki kolom nomor telepon untuk menyimpan nomor teleponnya, email untuk kolom ini berfungsi untuk menyimpan email cs, status kerja yang dimiliki cs befungsi untuk mengetahui apakah cs tersebut masih aktif atau tidak, jenis kelamin kolom ini berfungsi untuk menyimpan jenis kelamin untuk mengetahui identitas seorang cs apakah laki-laki atau perempuan.
 
-untuk melihat kode cutomer_service pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Table Nasabah dapat dilihat pada tautan ini [kode customer_service](customer_service.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+untuk melihat kode cutomer_service pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel customer_service dapat dilihat pada tautan ini [kode customer_service](customer_service.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/fc7d1534-cdb7-43c1-b508-cc89d6ec6a91)
 
 # TABEL TELLER
-![image](https://github.com/Mezi24/BASDA/assets/131523143/7fc6e49f-a9e0-4826-abf8-2e28570f28bb)
+![image](https://github.com/Mezi24/BASDA/assets/131523143/98879ff0-3bd7-4917-8222-bb7ed895fe0e)
 Pada tabel ini saya akan menjelaskan sebuah tabel teller yang memiliki beberapa atribut dengan fungsinya masing-masing. 
 id teller ialah kolom yang berfungsi untuk menyimpan identitas unik dari teller, nama teller kolom ini berfungsi untuk menyimpan identitas nama teller, 
 nomor telepon kolom ini berfungsi untuk menyimpan nomor dari teller, email berfungsi untuk menyimpan alamat dari seorang teller, jenis kelamin befungsi untuk menyimpan data identitas seorang teller.
-[kode teller](teller.sql)
+
+untuk melihat kode teller pada database yang kita buat kita dapat menambahkan kode pada database yang telah kita buat.Source code Tabel teller dapat dilihat pada tautan ini  [kode teller](teller.sql). setelah kita menambahkan kode tersebut maka akan terbentuk struktur tabel seperti berikut:
+![image](https://github.com/Mezi24/BASDA/assets/131523143/7fc6e49f-a9e0-4826-abf8-2e28570f28bb)
 
 # TABEL SALDO_REKENING
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/135f15e6-fcb5-4a57-a57f-8752afbca5c6)
