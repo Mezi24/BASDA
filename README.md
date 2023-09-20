@@ -29,5 +29,5 @@ nomor rekening kolom ini berungfi untuk menyimpan semua nomor rekening yang dimi
 
 # TABEL DEREKTUR
 ![image](https://github.com/Mezi24/BASDA/assets/131523143/5fe5429d-c6f5-4551-b46a-ff071cf99dc2)
-Pada tabel derektur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel derektur. pada id derektur ini berfungsi untuk menyimpan identitas unik derektur, nama derktur koolom ini berfungsi untuk menyimpan nama derektur yang ada, jenis kelamin berfungsi untuk menyimpan semua jenis kelamin, nomor telepon berfungsi untuk menyimpan nomor dari derektur, email berfusng untuk menyimpan alamat email yang dimiliki dari derektur.
+Pada tabel direktur ini dapat dilihat beberapa fungsi yang akan dilihat ditabel direktur. pada id direktur ini berfungsi untuk menyimpan identitas unik direktur, nama dirktur koolom ini berfungsi untuk menyimpan nama direktur yang ada, jenis kelamin berfungsi untuk menyimpan semua jenis kelamin, nomor telepon berfungsi untuk menyimpan nomor dari direktur, email berfusng untuk menyimpan alamat email yang dimiliki dari direktur.
 
